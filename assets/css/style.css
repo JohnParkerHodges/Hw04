@@ -1,0 +1,10 @@
+.container {
+    margin-top: 20%;
+    height: 15vh;
+}
+
+.frontBody {
+    background-image: url(../images/code-matrix.jpg);
+    background-repeat: repeat;
+    max-height: 100vh;
+}
